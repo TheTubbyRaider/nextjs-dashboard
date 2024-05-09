@@ -1,3 +1,8 @@
 export default function CustomersPage() {
-    return <p>Customers Page</p>;
-  }
+  return (
+    <>
+      <title>Customers | Dashboard</title>
+      <p>Customers Page</p>
+    </>
+  );
+}
